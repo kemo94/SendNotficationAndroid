@@ -17,7 +17,8 @@ import retrofit2.http.POST;
 
 public class API {
     public static final String BASE_URL = "https://fcm.googleapis.com/fcm/";
-    public static final String SERVER_KEY = "key=" + YOUR_FIREBASE_SERVER_KEY;
+    public static final String SERVER_KEY = "key=AAAA1OLrGkA:APA91bG6QyXqlaVsS1UCQPoZFZDT4ygFiveFdbcH6CziFD0Fti6QSihGyzQ6Lu8qss0A-0lvr9eS9_oq_kDmrGsY-4SrFTZBy_qyG02IW4AexTRvETFF2YJxYNOjuTbSuoW02ncsclSG";
+
 
     public static void sendNotification(String token) {
         Retrofit retrofit = new Retrofit.Builder()

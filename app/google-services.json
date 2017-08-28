@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "226875984745",
+    "firebase_url": "https://testnotificationapi.firebaseio.com",
+    "project_id": "testnotificationapi",
+    "storage_bucket": "testnotificationapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226875984745:android:c0a631c50cec1f27",
+        "android_client_info": {
+          "package_name": "retrofit.kemo.com.sendnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226875984745-skfo0l7ltkcdkn7ev080cumt5q7v15kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF4CuB9mRL_g6hV-ylwnsouiK3mclqDHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
